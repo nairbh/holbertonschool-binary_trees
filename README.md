@@ -81,5 +81,8 @@ To ensure the correctness of the project, it's recommended to write a comprehens
 
 ## Author
 
-This Monty Interpreter was created by [Nairbh] [Arez].(https://github.com/nairbh) (https://github.com/Wayzer2318) .
- 
+
+This Binary Trees project was created by:
+
+- [Nairbh](https://github.com/nairbh)
+- [Arez](https://github.com/Wayzer2318) 
