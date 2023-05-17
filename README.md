@@ -60,6 +60,7 @@ This project includes the following functions:
 - `binary_tree_balance`: Measures the balance factor of a binary tree.
 - `binary_tree_is_full`: Checks if a binary tree is full.
 - `binary_tree_is_perfect`: Checks if a binary tree is perfect.
+- `binary_tree_uncle` : Function that finds the uncle of a node.
 
 ## Exit Status
 
